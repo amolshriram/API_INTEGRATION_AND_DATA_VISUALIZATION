@@ -63,6 +63,7 @@ Step 6: Observe the Output
 3.	Confirmation Message: After the plot window closes (or if you close it), you'll see a confirmation message in your terminal: "Simple bar plot showing the main weather parameters has been generated."
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/dbc354ad-98f3-417f-b64b-a195736b1030)
 
 ________________________________________
 
