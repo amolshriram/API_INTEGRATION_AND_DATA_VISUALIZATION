@@ -62,9 +62,14 @@ Step 6: Observe the Output
 2.	Visualization Window: A new window will pop up displaying the bar plot of the current weather parameters (Temperature, Feels Like, Humidity, Pressure, Wind Speed) for the specified city.
 3.	Confirmation Message: After the plot window closes (or if you close it), you'll see a confirmation message in your terminal: "Simple bar plot showing the main weather parameters has been generated."
 
-OUTPUT:
+*OUTPUT*:
+
+
 ![Image](https://github.com/user-attachments/assets/dbc354ad-98f3-417f-b64b-a195736b1030)
 
+![Image](https://github.com/user-attachments/assets/47b12e02-833e-41ef-a32b-6dcbb7c72539)
+
+![Image](https://github.com/user-attachments/assets/1a5ba8fe-e9f5-4d26-a0ab-01d6ef5611cf)
 ________________________________________
 
 
